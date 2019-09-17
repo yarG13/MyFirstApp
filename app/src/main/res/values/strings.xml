@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="btn_ok">OK</string>
+    <string name="str1">Hello</string>
+    <string name="str2">132</string>
+    <string name="str3">231</string>
+    <string name="str4">23</string>
+    <string name="str5">23</string>
+</resources>
